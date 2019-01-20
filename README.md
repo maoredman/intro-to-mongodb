@@ -6,4 +6,5 @@ I'm using a free tier Atlas cluster as suggested by the course, which provides 5
 
 Things I learnt include:
 * MongoDB's Aggregation Pipeline (stages, operators, projections)
-* MongoDB's query language for processing data (bulk updates, operators, collection methods, projection)
+* MongoDB's query language for processing data (bulk updates, operators, collection methods, projection, geospatial queries)
+* MongoDB's indexes
